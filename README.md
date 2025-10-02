@@ -22,4 +22,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/HopeZaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HopeZaa&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://www.github.com/HopeZaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeZaa&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/HopeZaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeZaa&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
