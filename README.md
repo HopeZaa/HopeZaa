@@ -1,10 +1,12 @@
-<div align="center"><H1>HopeZaa</H1></div>
-
-<h2 align="left">- High School Student -</h2>
+<div>
+  <h1 align="left">🧑🏻‍💻 HopeZaa</h1>
+  <h3 align="right">Mr.Sirawich Roopngam</h2>
+</div>
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [hoperoopngam@gmail.com](mailto:hoperoopngam@gmail.com)
-* 💬  Ask me about " Effort has never hurt someone who is determined."
+
+* 💬  My motto : " Effort has never hurt someone who is determined."
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
