@@ -1,6 +1,6 @@
-<div align = "center"><H1>HopeZaa</H1></div>
+<div align="center"><H1>HopeZaa</H1></div>
 
-<div align="center"><h2>- High School Student -</h2></div>
+<h2 align="left">- High School Student -</h2>
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [hoperoopngam@gmail.com](mailto:hoperoopngam@gmail.com)
